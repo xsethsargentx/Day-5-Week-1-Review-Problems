@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.backgroundImg {
+    z-index: 1;
+    min-width: 100%;
+    min-height: 100%;
+}
