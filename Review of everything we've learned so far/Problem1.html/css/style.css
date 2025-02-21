@@ -1,0 +1,69 @@
+.jacquard-12-regular {
+    font-family: "Jacquard 12", serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+  }  
+
+  .funnel-sans {
+    font-family: "Funnel Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+
+.profilePhoto {
+    display: flex;
+    width: 400px;
+    border: solid 3px black;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+}
+
+li::marker { 
+        content:"⨳";
+        color: azure;
+}
+
+a {
+    color: azure;
+}
+
+body {
+    background-color: crimson;
+}
+
+.nav {
+    display: flex;
+    position: fixed;
+    right: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.aboutMe {
+    display: flex;
+    justify-content: center;
+}
+
+.skillsList {
+    display: flex;
+    justify-content: center;
+}
+
+.workHistory {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.workHistoryArticle {
+    margin: 5px;
+}
