@@ -1,0 +1,51 @@
+.funnel-sans {
+    font-family: "Funnel Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .pfp {
+    width: 350px;
+  }
+
+  body {
+    background-color: rgba(0, 128, 0, 0.5);
+  }
+
+  a {
+    color: whitesmoke;
+  }
+
+  .nav {
+    padding: 5px;
+    margin: 10px;
+    line-height: 25px;
+  }
+
+  img {
+  border: solid black 4px;  }
+
+  textarea {
+    background-color: greenyellow;
+    border: solid black 2px;
+    max-width: 400px;
+    max-height: 400px;
+    width: 400px;
+    display: flex;
+  }
+
+  #email {
+    background-color: greenyellow;
+    border: solid black 2px;
+  }
+
+  #name {
+    background-color: greenyellow;
+    border: solid black 2px;
+  }
+
+  button {
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(173,255,47,1) 100%);
+  }

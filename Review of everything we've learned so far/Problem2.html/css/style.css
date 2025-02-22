@@ -14,5 +14,14 @@
   }
 
   a {
-    color: darkmagenta;
+    color: whitesmoke;
   }
+
+  .nav {
+    padding: 5px;
+    margin: 10px;
+    line-height: 25px;
+  }
+
+  img {
+  border: solid black 4px;  }
